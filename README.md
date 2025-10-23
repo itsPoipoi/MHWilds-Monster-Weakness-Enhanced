@@ -16,3 +16,5 @@ Features:
 - Restructured config UI slightly
 
 Great thanks to lingsamuel for CatLib and other codes.
+
+Installation: Install original mod, download the raw .lua file from this repo, replace original file in MonsterHunterWilds\reframework\autorun
